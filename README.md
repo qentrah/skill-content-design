@@ -23,3 +23,7 @@ Created and maintained by [Ahmed Mansour](https://github.com/Up-to-code) for [Qe
 ## License
 
 MIT.
+
+## Project links
+
+[Source](https://github.com/qentrah/skill-content-design) · [Issues](https://github.com/qentrah/skill-content-design/issues) · [Public project directory](https://github.com/qentrah/.github/blob/main/profile/PROJECTS.md)
